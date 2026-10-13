@@ -11,4 +11,4 @@ Nur einführung in die Programmierung.
 
 ## Das erwarte ich von der Veranstaltung
 
-Tiefgreifenderes Wissen über SW und bessere Kenntnisse zu Github.
+Tiefgreifenderes Wissen über SW und bessere Kenntnisse zu Github;-(
