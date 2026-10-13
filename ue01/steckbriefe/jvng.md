@@ -6,7 +6,7 @@ Wirtschaftsinformatik B.Sc., 3. Semester
 …
 
 ## Meine bisherige Erfahrung mit Softwareentwicklung
-Nur einführung in die Programmierung.
+Nur einfürung in die Programmierung.
 …
 
 ## Das erwarte ich von der Veranstaltung
