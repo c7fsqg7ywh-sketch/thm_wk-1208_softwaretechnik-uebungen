@@ -15,3 +15,8 @@ Beispiel: Als eine Liste.
 ### Soll es einzelne Rollen für eine bessere Übersicht geben?
 Beispiel: Einzelne Rollen bekommen unterschiedliche Farben.
 
+## Standertvorgänge
+### Sprechstunde buchen
+Beispiel:Anhand einer Tabelle mit verfügbaren Terminen und belegten Terminen.
+## Prüfungstermine
+Beispiel:Für jeden Termin gibt es eine Liste und jeder trägt sich innerhalb einer Frist darin ein.
