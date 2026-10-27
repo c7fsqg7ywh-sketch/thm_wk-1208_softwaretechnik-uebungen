@@ -19,9 +19,5 @@
 
 ## Eine Anforderung, die niemand ausgesprochen hat
 
-<!-- Nummer der Anforderung aus der Tabelle, welche im Gespräch niemand
-     ausgesprochen hat, obwohl sie gilt, und in ein bis zwei Sätzen, warum
-     sie niemand genannt hat. -->
-
 A07, da davon ausgegangen wird, dass jeder der einen Ternin will auch selbst sich eintragen kann.
-A08, da es eine Überforderung für den Lehrenden wäre verschiedene Sprechstunden gleichzeitig zu führen. 
+A08, da es eine Überforderung für den Lehrenden wäre verschiedene Sprechstunden gleichzeitig zu führen.
