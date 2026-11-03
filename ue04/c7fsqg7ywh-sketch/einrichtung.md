@@ -12,6 +12,7 @@
 | Modell | Big Pickle |
 
 ## Antwort des Agenten geprüft
+Es wurden alle Dateien gefunden. Er hat mich darauf hingegwiesen, dass ich genau diese Aufgabe noch nicht gelöst habe und darauf, dass ich mein Verzeichniss falsch benannt habe.
 
 ## Wenn es nicht läuft
 
@@ -19,8 +20,4 @@
 
 **Befehl und Ausgabe:**
 
-```text
-…
-```
-
-**Bereits versucht:** …
+**Bereits versucht:** 

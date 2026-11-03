@@ -941,19 +941,19 @@ Branch: ue04--c7fsqg7ywh-sketch. So username is c7fsqg7ywh-sketch. Their directo
 ```
 
  c7fsqg7ywh-sketch
-254171637+c7fsqg7ywh-sketch@users.noreply.github.com
-049550a  c7fsqg7ywh-sketch <254171637+c7fsqg7ywh-sketch@users.noreply.github.com> Übung 3: Ergebnisse von jvng (#292)
-9c6998c Carsten Lucke <github@lucke.info> docs(ue04): README für beliebige Agenten fassen
-3763aa2 Carsten Lucke <github@lucke.info> docs(ue04): Agentenwahl offen, Copilot als Agent, Überschrift „Antwort des Agenten geprüft“
-e9cba61 Carsten Lucke <github@lucke.info> docs(ue04): „nein oder teilweise“ in der README wie im Übungsblatt
-39aa9b0 Carsten Lucke <github@lucke.info> Übung 4 anlegen, GitHub-Benutzername statt Kürzel, AGENTS.md
-66c3e27  c7fsqg7ywh-sketch <254171637+c7fsqg7ywh-sketch@users.noreply.github.com> Wegen dem zweitem Commit.
-364d61d  c7fsqg7ywh-sketch <254171637+c7fsqg7ywh-sketch@users.noreply.github.com> Ue03 jvng Lösung
-bafee1b  c7fsqg7ywh-sketch <254171637+c7fsqg7ywh-sketch@users.noreply.github.com> Ue02 jvng (#160)
-7a8ae71  c7fsqg7ywh-sketch <254171637+c7fsqg7ywh-sketch@users.noreply.github.com> Hinzufühgen einer weiteren gliederung.
-c2594aa  c7fsqg7ywh-sketch <254171637+c7fsqg7ywh-sketch@users.noreply.github.com> Bearbeitung Aufgabe 5
-6785284  c7fsqg7ywh-sketch <254171637+c7fsqg7ywh-sketch@users.noreply.github.com> Spezifikation für Aufgabe 3
-1d32eee  c7fsqg7ywh-sketch <254171637+c7fsqg7ywh-sketch@users.noreply.github.com> Gesprächsnotitz angepasst
+254171637+c7fsqg7ywh-sketch...users.noreply.github.com
+049550a  c7fsqg7ywh-sketch <254171637+c7fsqg7ywh-sketch...users.noreply.github.com> Übung 3: Ergebnisse von jvng (#292)
+9c6998c Carsten Lucke <github...lucke.info> docs(ue04): README für beliebige Agenten fassen
+3763aa2 Carsten Lucke <github...lucke.info> docs(ue04): Agentenwahl offen, Copilot als Agent, Überschrift „Antwort des Agenten geprüft“
+e9cba61 Carsten Lucke <github...lucke.info> docs(ue04): „nein oder teilweise“ in der README wie im Übungsblatt
+39aa9b0 Carsten Lucke <github...lucke.info> Übung 4 anlegen, GitHub-Benutzername statt Kürzel, AGENTS.md
+66c3e27  c7fsqg7ywh-sketch <254171637+c7fsqg7ywh-sketch...users.noreply.github.com> Wegen dem zweitem Commit.
+364d61d  c7fsqg7ywh-sketch <254171637+c7fsqg7ywh-sketch...users.noreply.github.com> Ue03 jvng Lösung
+bafee1b  c7fsqg7ywh-sketch <254171637+c7fsqg7ywh-sketch...users.noreply.github.com> Ue02 jvng (#160)
+7a8ae71  c7fsqg7ywh-sketch <254171637+c7fsqg7ywh-sketch...users.noreply.github.com> Hinzufühgen einer weiteren gliederung.
+c2594aa  c7fsqg7ywh-sketch <254171637+c7fsqg7ywh-sketch...users.noreply.github.com> Bearbeitung Aufgabe 5
+6785284  c7fsqg7ywh-sketch <254171637+c7fsqg7ywh-sketch...users.noreply.github.com> Spezifikation für Aufgabe 3
+1d32eee  c7fsqg7ywh-sketch <254171637+c7fsqg7ywh-sketch...users.noreply.github.com> Gesprächsnotitz angepasst
 
 
 **Tool: read**
